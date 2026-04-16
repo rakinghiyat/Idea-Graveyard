@@ -37,7 +37,7 @@ We envision a world where even failed ideas contribute to innovation. Our missio
 
 ```text
 +-----------------------------------------------------------------+
-| CONTRACT ID: IDEA GRAVEYARD |
+| CONTRACT ID: CAXH5REJJHJ7S6PGZQWDCUF4GFH6L2AGWY3SXLWBLKE3ZTWYTRO4XBB4
 +-----------------------------------------------------------------+
 ```
 
